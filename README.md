@@ -5,7 +5,7 @@
   - Practice basics with this repo before diving into your writing tests for your own project!
 - Identify reasons to use E2E testing
 
-#### Learn the basics of Cypress and e2e testing using this basic JS and HTML repo.
+## Learn the basics of Cypress and e2e testing using this basic JS and HTML repo.
 
 #### Clone this repo. Npm install. 
 
