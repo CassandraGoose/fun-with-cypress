@@ -3,8 +3,8 @@
 - Install Cypress
 - Write tests using Cypress
   - Practice basics with this repo before diving into your writing tests for your own project!
-- Explain the difference between unit test and integration/e2e tests
-- Identify reasons to use E2E testing
+- Distinguish between unit test and integration/e2e tests
+- Justify using E2E testing
 
 ## Learn the basics of Cypress and e2e testing using this basic JS and HTML repo.
 
